@@ -39,7 +39,7 @@
 <a href="https://github.com/perssBest">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=perssBest&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
 </a>
-<a href="https://github.com/perssBest">
+<a href="https://github.com/perssBest" style="margin-left: 10px">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" />
 </a>
 
