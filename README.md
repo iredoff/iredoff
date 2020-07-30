@@ -28,6 +28,24 @@
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/discord.svg" />
 </a>
 
+<a href="https://vk.com/reedi">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/vk.svg" />
+</a>
+
+<a href="https://twitch.tv/persigg_loves">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/twitch.svg" />
+</a>
+
+<a href="https://steamcommunity.com/id/persijj/">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/steam.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/bhp54m5qf1gvpf2cqmuhwzedz?si=nFL6Vo3YSz-cfhL-6M6G1g">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/spotify.svg" />
+</a>
+
+
+
 <br>
 <br>
 
