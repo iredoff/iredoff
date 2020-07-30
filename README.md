@@ -6,47 +6,47 @@
 + Кстати, вот мои соц. сети где я часто залипаю, можешь подписывать на них, мне будет приятно.
 
 <a href="https://instagram.com/iredoff">
-  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/instagram.svg" />
+  <img align="left" alt="Instagram" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/instagram.svg" />
 </a>
 
 <a href="https://t.me/iredoff">
-  <img align="left" alt="Telegram" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/telegram.svg" />
+  <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/telegram.svg" />
 </a>
 
 <a href="https://github.com/iredoff">
-  <img align="left" alt="Second Github Profile" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/github.svg" />
+  <img align="left" alt="Second Github Profile" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/github.svg" />
 </a>
 
 <a href="zadrotflex24@gmail.com">
-  <img align="left" alt="Gmail" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/gmail.svg" />
+  <img align="left" alt="Gmail" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/gmail.svg" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCiwqPhFK_Rh8rbZflRgnvHg">
-  <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/youtube.svg" />
+  <img align="left" alt="YouTube" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/youtube.svg" />
 </a>
 
 <a href="https://discord.gg/RPb2KXN">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/discord.svg" />
 </a>
 
 <a href="https://vk.com/reedi">
-  <img align="left" alt="VK" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/vk.svg" />
+  <img align="left" alt="VK" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/vk.svg" />
 </a>
 
 <a href="https://twitch.tv/persigg_loves">
-  <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/twitch.svg" />
+  <img align="left" alt="Twitch" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/twitch.svg" />
 </a>
 
 <a href="https://steamcommunity.com/id/persijj/">
-  <img align="left" alt="Steam" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/steam.svg" />
+  <img align="left" alt="Steam" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/steam.svg" />
 </a>
 
 <a href="https://open.spotify.com/user/bhp54m5qf1gvpf2cqmuhwzedz?si=nFL6Vo3YSz-cfhL-6M6G1g">
-  <img align="left" alt="Spotify" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/spotify.svg" />
 </a>
 
 <a href="https://osu.ppy.sh/users/17761101">
-  <img align="left" alt="osu!" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/osu.png" />
+  <img align="left" alt="osu!" width="31px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/osu.png" />
 </a>
 
 
