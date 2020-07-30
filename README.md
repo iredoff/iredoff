@@ -60,6 +60,7 @@
 - 🥒 [Еще один Discord бот но теперь с MySql базой-данных](https://github.com/perssBest/MySql-bot)
 - 🍒 [Крутой сайт для Discord бота, с минималистичным дизайном](https://github.com/perssBest/discord-bot-site)
 
+---
 
 <a href="https://github.com/perssBest">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=perssBest&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
