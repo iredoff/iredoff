@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://osu.ppy.sh/users/17761101">
-  <img align="left" alt="osu!" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/osu.svg" />
+  <img align="left" alt="osu!" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/osu.png" />
 </a>
 
 
