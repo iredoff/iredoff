@@ -28,8 +28,6 @@
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/discord.svg" />
 </a>
 
-<br />
-<br />
 ---
 
 
