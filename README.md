@@ -20,7 +20,7 @@
   <img align="left" alt="Gmail" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/gmail.svg" />
 </a>
 
-<a href="">
+<a href="https://www.youtube.com/channel/UCiwqPhFK_Rh8rbZflRgnvHg">
   <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/iredoff/iredoff/master/assets/youtube.svg" />
 </a>
 
@@ -40,7 +40,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=perssBest&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
 </a>
 <a href="https://github.com/perssBest">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" style="margin-left: 100px"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" style="margin-left: 100px;"/>
 </a>
 
 <a href="https://github.com/perssBest">
