@@ -71,10 +71,10 @@
 ---
 
 <a href="https://github.com/perssBest">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=perssBest&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iredoff&show_icons=true&include_all_commits=true&theme=dark" alt="ThePersigg's github stats" />
 </a>
 <a href="https://github.com/perssBest">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=perssBest&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iredoff&layout=compact&theme=dark" />
 </a>
 
 <a href="https://github.com/perssBest">
